@@ -1,0 +1,23 @@
+<emDataViewDatabaseIndex>
+  <version minor="1" major="1"/>
+  <emDatabase>
+    <ParameterNames/>
+    <databaseItems>
+      <databaseItem name="data.000" index="0">
+        <parameterValues/>
+        <fileNames>
+          <name>data.000.rat</name>
+          <name>data.000.afs</name>
+          <name>data.000.cti</name>
+          <name>data.000.sam</name>
+        </fileNames>
+        <originalFileNames>
+          <name>proj.rat</name>
+          <name>proj.afs</name>
+          <name>proj.cti</name>
+          <name>proj.sam</name>
+        </originalFileNames>
+      </databaseItem>
+    </databaseItems>
+  </emDatabase>
+</emDataViewDatabaseIndex>

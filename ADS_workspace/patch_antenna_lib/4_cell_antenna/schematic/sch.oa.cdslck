@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      oskar
+HostName                       LAPTOP-U6K5EAV2
+ProcessIdentifier              8476
+ProcessCreationTime_UTC        1655486808
+ProcessCreationTime_Readable   06/17/22 19:26:48 Västeuropa, sommartid
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\oskar\Documents\patch_antenna_design\patch_antenna\patch_antenna_lib\4_cell_antenna\schematic\sch.oa.cdslck
+TimeEditLocked                 06/17/22 19:28:56 Västeuropa, sommartid
